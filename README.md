@@ -1,5 +1,7 @@
 # Processing side effect and indication data from SIDER 4
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45521.svg)](http://dx.doi.org/10.5281/zenodo.45521)
+
 [SIDER](http://sideeffects.embl.de/ "SIDER Homepage: Side Effect Resource") is a resource of side effects extracted from drug labels. See the [SIDER 4 publication](https://doi.org/10.1093/nar/gkv1075 "The SIDER database of drugs and side effects") for more information.
 
 This repository extracts data from SIDER 4.1 into user-friendly, tidy TSVs.
