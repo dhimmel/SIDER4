@@ -47,3 +47,10 @@ meddra_all_indications.tsv.gz
 All side effects found on the labels are given as LLT. Additionally, the PT is shown. There is at least one
 PT for every LLT, but sometimes the PT is the same as the LLT.
 
+
+meddra_all_label_indications.tsv.gz and meddra_all_label_se.tsv.gz
+---------------------------------------------------------------------------------------
+
+These files contain the same data as the indications/se files, but with an additional first column showing the source label.
+
+
